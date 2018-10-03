@@ -1,4 +1,6 @@
 # ben
 
 Hello World
-This is my main GIT repository for FRC code
+This is the git repository for frc team 2710
+all code for 2018 will be stored here
+
